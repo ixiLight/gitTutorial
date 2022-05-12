@@ -9,3 +9,8 @@ Watch tutorial on YT.
 ### Test
 
 GitHub Tutorial
+
+
+## Local development
+
+1. Open index.html in your browser
